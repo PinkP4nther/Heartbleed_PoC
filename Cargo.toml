@@ -1,0 +1,5 @@
+[package]
+name = "hb-testing"
+version = "0.1.0"
+edition = "2018"
+authors = ["PinkP4nther <pinkp4nther@protonmail.com>"]
