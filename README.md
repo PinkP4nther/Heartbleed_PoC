@@ -1,3 +1,3 @@
 # Heartbeat_PoC
 
-A rust lang Heartbeat Proof of Concept.
+A rust lang Heartbleed Proof of Concept.
